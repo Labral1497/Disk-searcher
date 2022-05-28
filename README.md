@@ -1,7 +1,7 @@
 # Disk-searcher
 A multithreaded code to find files
 To begin a search please run a command in the upcoming format:
-> java DiskSearcher <boolean of milestoneQueueFlag> <file-prefix> <root directory>
+java DiskSearcher <boolean of milestoneQueueFlag> <file-prefix> <root directory>
   <destination directory> <# of searchers> <# of copiers> 
 keys:
                                                                                                                                                  
