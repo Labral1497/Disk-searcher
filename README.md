@@ -1,6 +1,6 @@
 # Disk-searcher
-A multithreaded code to find files
-To begin a search please run a command in the upcoming format:
+A multithreaded code to find and copy files that begin with a specified prefix.
+To begin please run a command in the upcoming format:
 >java DiskSearcher <# milestoneQueueFlag> <# file-prefix> <# root directory> <# destination directory> <# of searchers> <# of copiers> 
 keys:
                                                                                                                                                  
